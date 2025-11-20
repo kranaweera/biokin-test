@@ -1,0 +1,73 @@
+﻿Item,Question,Category,Meaning
+ADL speech,How would you describe your/ the patient's speech? ,0,Normal
+ADL speech,How would you describe your/ the patient's speech? ,1,Mildly affected. No difficulty being understood
+ADL speech,How would you describe your/ the patient's speech? ,2,Moderately affected. Sometimes asked to repeat statements
+ADL speech,How would you describe your/ the patient's speech? ,3,Severely affected. Frequently asked to repeat statements
+ADL speech,How would you describe your/ the patient's speech? ,4,Unintelligible most of the time
+ADL Swallowing,How affected is your/ the patient's ability to swallowing? ,0,Normal
+ADL Swallowing,How affected is your/ the patient's ability to swallowing? ,1,Rare choking (less than once a month)
+ADL Swallowing,How affected is your/ the patient's ability to swallowing? ,2,"Frequent choking (less than once a week, greater than once a month)"
+ADL Swallowing,How affected is your/ the patient's ability to swallowing? ,3,Requires modified food or chokes multiple times a week. Or subject avoids certain foods
+ADL Swallowing,How affected is your/ the patient's ability to swallowing? ,4,Requires feeding or gastrostomy feedings
+ADL Cutting Food,How affected is your/ the patient's ability to cut food and handle utensils? ,0,Normal
+ADL Cutting Food,How affected is your/ the patient's ability to cut food and handle utensils? ,1,"Somewhat slow and clumsy, but no help needed"
+ADL Cutting Food,How affected is your/ the patient's ability to cut food and handle utensils? ,2,"Clumsy and slow, but can cut most foods with some help needed. Or needs assistance when in a hurry"
+ADL Cutting Food,How affected is your/ the patient's ability to cut food and handle utensils? ,3,"Food must be cut by someone, but can still feed self slowly"
+ADL Cutting Food,How affected is your/ the patient's ability to cut food and handle utensils? ,4,Needs to be fed
+ADL Dressing,How affected is your/ the patient's ability to dress himself/herself?  ,0,Normal
+ADL Dressing,How affected is your/ the patient's ability to dress himself/herself?  ,1,"Somewhat slow, but no help needed"
+ADL Dressing,How affected is your/ the patient's ability to dress himself/herself?  ,2,Normal
+ADL Dressing,How affected is your/ the patient's ability to dress himself/herself?  ,3,"Considerable help required, but can do some things alone"
+ADL Dressing,How affected is your/ the patient's ability to dress himself/herself?  ,4,Needs to be dressed 
+ADL Personal Hygiene,How affected is your/ the patient's ability to perform personal hygiene activities by himself/herself?                                                                         ,0,Normal
+ADL Personal Hygiene,How affected is your/ the patient's ability to perform personal hygiene activities by himself/herself?                                                                         ,1,"Somewhat slow, but no help needed"
+ADL Personal Hygiene,How affected is your/ the patient's ability to perform personal hygiene activities by himself/herself?                                                                         ,2,"Very slow hygienic care or has need for devices such as special grab bars, tub bench shower chair, etc.; "
+ADL Personal Hygiene,How affected is your/ the patient's ability to perform personal hygiene activities by himself/herself?                                                                         ,3,"Requires personal help with washing, brushing teeth, combing hair or using toilet."
+ADL Personal Hygiene,How affected is your/ the patient's ability to perform personal hygiene activities by himself/herself?                                                                         ,4,Fully dependent (bed-bound)
+ADL Falls,How often do you/ the patient fall?,0,Normal
+ADL Falls,How often do you/ the patient fall?,1,Rare falling (less than once a month)
+ADL Falls,How often do you/ the patient fall?,2,Occasional falls (once a week to once a month)
+ADL Falls,How often do you/ the patient fall?,3,Falls multiple times a week or requires device to prevent falls
+ADL Falls,How often do you/ the patient fall?,4,Unable to stand or walk
+ADL Walk,How affected is your/ the patient's ability to walk?,0,Normal
+ADL Walk,How affected is your/ the patient's ability to walk?,1,"Mild difficulty, perception of imbalance"
+ADL Walk,How affected is your/ the patient's ability to walk?,2,"Moderate difficulty, but requires little or no assistance"
+ADL Walk,How affected is your/ the patient's ability to walk?,3,"Severe disturbance of walking, requires assistance or walking aids"
+ADL Walk,How affected is your/ the patient's ability to walk?,4,Cannot walk at all even with assistance (wheelchair bound)
+ADL Sitting,How affected is your/ the patient's quality of sitting position?,0,Normal
+ADL Sitting,How affected is your/ the patient's quality of sitting position?,1,"Slight imbalance of the trunk, but needs no back support"
+ADL Sitting,How affected is your/ the patient's quality of sitting position?,2,Unable to sit without back support
+ADL Sitting,How affected is your/ the patient's quality of sitting position?,3,"Can sit only with extensive support (Geriatric chair, posy, etc.)"
+ADL Sitting,How affected is your/ the patient's quality of sitting position?,4,Unable to sit
+ADL Bladder,How affected is your/ the patient's bladder function?                                                            ,0,Normal
+ADL Bladder,How affected is your/ the patient's bladder function?                                                            ,1,"Mild urinary hesitance, urgency or retention (less than once a month)"
+ADL Bladder,How affected is your/ the patient's bladder function?                                                            ,2,"Moderate hesitance, urgency, rare retention/incontinence (greater than once a month, but less than once a week)"
+ADL Bladder,How affected is your/ the patient's bladder function?                                                            ,3,Frequent urinary incontinence (greater than once a week)
+ADL Bladder,How affected is your/ the patient's bladder function?                                                            ,4,Loss of bladder function requiring intermittent catheterization/indwelling 
+QS1MOBILITY,MOBILITY,0,Patient have no problems walking
+QS1MOBILITY,MOBILITY,1,Patient have slight problems walking
+QS1MOBILITY,MOBILITY,2,Patient have moderate problems walking
+QS1MOBILITY,MOBILITY,3,Patient have severe problems walking
+QS1MOBILITY,MOBILITY,4,Patient is unable to walk
+QS1SELFC,SELF-CARE,0,Patient have no problems washing or dressing themselves
+QS1SELFC,SELF-CARE,1,Patient have slight problems washing or dressing themsleves
+QS1SELFC,SELF-CARE,2,Patient have moderate problems washing or dressing themselves
+QS1SELFC,SELF-CARE,3,Patient have severe problems washing or dressing themselves
+QS1SELFC,SELF-CARE,4,Patient is  unable to wash or dress themselves
+QS1ACTV,"USUAL ACTIVITIES (e.g. work, study, housework, family or leisure activities)",0,I have no problems doing my usual activities
+QS1ACTV,"USUAL ACTIVITIES (e.g. work, study, housework, family or leisure activities)",1,I have slight problems doing my usual activities
+QS1ACTV,"USUAL ACTIVITIES (e.g. work, study, housework, family or leisure activities)",2,I have moderate problems doing my usual activities
+QS1ACTV,"USUAL ACTIVITIES (e.g. work, study, housework, family or leisure activities)",3,I have severe problems doing my usual activities
+QS1ACTV,"USUAL ACTIVITIES (e.g. work, study, housework, family or leisure activities)",4,I am unable to do my usual activities
+QS1PAIND,PAIN / DISCOMFORT,0,I have no pain or discomfort
+QS1PAIND,PAIN / DISCOMFORT,1,I have slight pain or discomfort
+QS1PAIND,PAIN / DISCOMFORT,2,I have moderate pain or discomfort
+QS1PAIND,PAIN / DISCOMFORT,3,I have severe pain or discomfort
+QS1PAIND,PAIN / DISCOMFORT,4,I have extreme pain or discomfort
+QS1ANXDP,ANXIETY / DEPRESSION,0,I am not anxious or depressed
+QS1ANXDP,ANXIETY / DEPRESSION,1,I am slightly anxious or depressed
+QSHow good is your health today (0-100)?,How good is your health today (0-100)?,0,"No health problems are being experienced today, and health is being felt as good as can be imagined."
+QSHow good is your health today (0-100)?,How good is your health today (0-100)?,1,"Minor health issues are being noticed today, and daily activities are being affected very little."
+QSHow good is your health today (0-100)?,How good is your health today (0-100)?,2,"Noticeable health difficulties are being experienced today, and some daily activities are being affected."
+QSHow good is your health today (0-100)?,How good is your health today (0-100)?,3,"Significant health problems are being experienced today, and daily activities are being clearly interfered with."
+QSHow good is your health today (0-100)?,How good is your health today (0-100)?,4,"Very serious health problems are being experienced today, and the ability to function is being severely affected."
